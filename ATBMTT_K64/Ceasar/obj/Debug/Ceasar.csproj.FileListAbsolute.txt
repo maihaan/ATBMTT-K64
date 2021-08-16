@@ -1,0 +1,9 @@
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\bin\Debug\Ceasar.exe
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\bin\Debug\Ceasar.pdb
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.csprojAssemblyReference.cache
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.Form1.resources
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.Properties.Resources.resources
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.csproj.GenerateResource.cache
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.csproj.CoreCompileInputs.cache
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.exe
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\Ceasar\obj\Debug\Ceasar.pdb

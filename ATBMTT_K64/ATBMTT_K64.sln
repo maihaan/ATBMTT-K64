@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasar", "Ceasar\Ceasar.csproj", "{6216FF24-A3D1-4E23-902F-2AC9A884720E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeasarApp", "CeasarApp\CeasarApp.csproj", "{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6216FF24-A3D1-4E23-902F-2AC9A884720E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6216FF24-A3D1-4E23-902F-2AC9A884720E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6216FF24-A3D1-4E23-902F-2AC9A884720E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6216FF24-A3D1-4E23-902F-2AC9A884720E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03381F16-787C-40BA-9900-89BE78A135B9}
+	EndGlobalSection
+EndGlobal
