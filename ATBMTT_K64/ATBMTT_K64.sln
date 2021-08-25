@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasar", "Ceasar\Ceasar.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeasarApp", "CeasarApp\CeasarApp.csproj", "{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonBang", "DonBang\DonBang.csproj", "{C63D54D4-29BB-40A1-A4F4-0E827476A9A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaBang", "DaBang\DaBang.csproj", "{7218FE98-B52F-45E5-B10F-510AC73986A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75B2BEC5-41C2-4106-8161-1E4DDEFE9C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63D54D4-29BB-40A1-A4F4-0E827476A9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63D54D4-29BB-40A1-A4F4-0E827476A9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63D54D4-29BB-40A1-A4F4-0E827476A9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63D54D4-29BB-40A1-A4F4-0E827476A9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7218FE98-B52F-45E5-B10F-510AC73986A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7218FE98-B52F-45E5-B10F-510AC73986A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7218FE98-B52F-45E5-B10F-510AC73986A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7218FE98-B52F-45E5-B10F-510AC73986A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

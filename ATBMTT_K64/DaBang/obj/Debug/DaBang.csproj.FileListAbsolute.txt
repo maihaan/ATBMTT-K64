@@ -1,0 +1,9 @@
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\bin\Debug\DaBang.exe
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\bin\Debug\DaBang.pdb
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.csprojAssemblyReference.cache
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.Form1.resources
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.Properties.Resources.resources
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.csproj.GenerateResource.cache
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.csproj.CoreCompileInputs.cache
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.exe
+D:\GitHub\ATBMTT-K64\ATBMTT-K64\ATBMTT_K64\DaBang\obj\Debug\DaBang.pdb
