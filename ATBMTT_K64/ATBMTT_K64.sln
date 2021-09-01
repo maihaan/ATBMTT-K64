@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5Helper", "MD5Helper\MD5H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5File", "MD5File\MD5File.csproj", "{1F28BA53-F12C-4322-8CB5-662CBA7700B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAText", "RSAText\RSAText.csproj", "{E333CC9A-A786-487D-A6C9-A5A91DC4749B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAFile", "RSAFile\RSAFile.csproj", "{764329DF-2A6E-465B-8352-E63BB70FE1AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{1F28BA53-F12C-4322-8CB5-662CBA7700B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F28BA53-F12C-4322-8CB5-662CBA7700B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F28BA53-F12C-4322-8CB5-662CBA7700B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E333CC9A-A786-487D-A6C9-A5A91DC4749B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E333CC9A-A786-487D-A6C9-A5A91DC4749B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E333CC9A-A786-487D-A6C9-A5A91DC4749B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E333CC9A-A786-487D-A6C9-A5A91DC4749B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764329DF-2A6E-465B-8352-E63BB70FE1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764329DF-2A6E-465B-8352-E63BB70FE1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764329DF-2A6E-465B-8352-E63BB70FE1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764329DF-2A6E-465B-8352-E63BB70FE1AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
